@@ -1,0 +1,16 @@
+{
+  "projects": [
+    { 
+      "id": 1, 
+      "project": "Martí México",
+      "url": "https://www.marti.mx",
+      "participation": "Web Frontend Development"
+    },
+    { 
+      "id": 2, 
+      "project": "Tommy Hilfiger",
+      "url": "https://mx.tommy.com/",
+      "participation": "Web Frontend Development"
+    }
+  ]
+}
