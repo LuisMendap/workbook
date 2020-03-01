@@ -2,15 +2,15 @@
   "projects": [
     { 
       "id": 1, 
-      "project": "Martí México",
+      "project": "Martí México. Rediseño",
       "url": "https://www.marti.mx",
-      "participation": "Web Frontend Development"
+      "participation": "Web Frontend Development. Apoyé en el rediseño de las principales secciones del sitio web (Home, Landing Pages, PDP, Checkout, etc.)"
     },
     { 
       "id": 2, 
-      "project": "Tommy Hilfiger",
+      "project": "Tommy Hilfiger México",
       "url": "https://mx.tommy.com/",
-      "participation": "Web Frontend Development"
+      "participation": "Web Frontend Development. Participé en la maquetación y programación frontend para el desarrollo del sitio web. Apoyé en las principales secciones y funcionalidades del frontend como Home, Landing Pages, PLP y Checkout. "
     }
   ]
 }
