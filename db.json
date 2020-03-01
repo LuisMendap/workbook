@@ -2,15 +2,31 @@
   "projects": [
     { 
       "id": 1, 
-      "project": "Martí México. Rediseño",
+      "name": "Martí México. Rediseño",
       "url": "https://www.marti.mx",
-      "participation": "Web Frontend Development. Apoyé en el rediseño de las principales secciones del sitio web (Home, Landing Pages, PDP, Checkout, etc.)"
+      "description": "Web Frontend Development. Apoyé en el rediseño de las principales secciones del sitio web (Home, Landing Pages, PDP, Checkout, etc.)",
+      "image": "https://vicom.mx/images-projects/marti-thumbnail.jpg"
     },
     { 
       "id": 2, 
-      "project": "Tommy Hilfiger México",
+      "name": "Tommy Hilfiger México",
       "url": "https://mx.tommy.com/",
-      "participation": "Web Frontend Development. Participé en la maquetación y programación frontend para el desarrollo del sitio web. Apoyé en las principales secciones y funcionalidades del frontend como Home, Landing Pages, PLP y Checkout. "
+      "description": "Web Frontend Development. Participé en la maquetación y programación frontend para el desarrollo del sitio web. Apoyé en las principales secciones y funcionalidades del frontend como Home, Landing Pages, PLP y Checkout. ",
+      "image": "https://vicom.mx/images-projects/tommy-thumbnail.jpg"
+    },
+    { 
+      "id": 3, 
+      "name": "Coach México",
+      "url": "https://mx.coach.com/",
+      "description": "Web Frontend Development. Participé en la maquetación y programación frontend para el desarrollo del sitio web. Apoyé en las principales secciones y funcionalidades del frontend como Home, Landing Pages, PLP y Checkout. ",
+      "image": "https://vicom.mx/images-projects/coach-thumbnail.jpg"
+    },
+    { 
+      "id": 4, 
+      "name": "Calvin Klein México",
+      "url": "https://calvinklein.mx/",
+      "description": "Web Frontend Development. Participé en la maquetación y programación frontend para el desarrollo del sitio web. Apoyé en las principales secciones y funcionalidades del frontend como Home, Landing Pages, PLP y Checkout. ",
+      "image": "https://vicom.mx/images-projects/calvin-thumbnail.jpg"
     }
   ]
 }
