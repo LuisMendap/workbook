@@ -27,6 +27,20 @@
       "url": "https://calvinklein.mx/",
       "description": "Web Frontend Development. Participé en la maquetación y programación frontend para el desarrollo del sitio web. Apoyé en las principales secciones y funcionalidades del frontend como Home, Landing Pages, PLP y Checkout. ",
       "image": "https://vicom.mx/images-projects/calvin-thumbnail.jpg"
+    },
+    { 
+      "id": 5, 
+      "name": "Guess México",
+      "url": "https://guess.mx/",
+      "description": "Web Frontend Development. Participé en la maquetación y programación frontend para el desarrollo del sitio web. Apoyé en las principales secciones y funcionalidades del frontend como Home, Landing Pages, PLP, PDP y Checkout. ",
+      "image": "https://vicom.mx/images-projects/guess-thumbnail.jpg"
+    },
+    { 
+      "id": 6, 
+      "name": "Rediseño Office Max México",
+      "url": "https://www.officemax.com.mx/",
+      "description": "Web Frontend Development. Participé en la maquetación y programación frontend para el rediseño del sitio web de Office Max México. Trabajé en diferentes módulos del sitio web como Home y PDP",
+      "image": "https://vicom.mx/images-projects/officemax-thumbnail.jpg"
     }
   ]
 }
